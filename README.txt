@@ -1,15 +1,11 @@
-Student: Arnau Metaute Carrillo
-
-Email: arnau.metaute@students.salle.url.edu
-
-Gameplay instructions:
+# Gameplay instructions:
  - Arrows and Enter key to move in the menus
  - WASD to move in the game (plane-like movement)
  - Space to shoot normal bullets
  - B to drop stationary bombs
  - Shift to activate turbo
 
-Explanations:
+# In-depth explanations:
  - Game fully functional in an arcade way, based in a WWII scenario.
  - Enemies move in wour direction in a smooth way (waypoint oriented) in order to touch you so you lose.
  - Lots of different collisions: if the player touches another plane or the ground it loses. There are also bullet collisions for when you shoot.
@@ -21,4 +17,4 @@ Explanations:
  - There are lots of shaders present in the game (player, environment, bullet...)
  - Implementation of audio to make a full immersive experience: different music in the menu than in-game and shooting and explosions sound effects.
 
-YouTube link: https://youtu.be/bRpDincpkho
+Gameplay [YouTube link](https://youtu.be/bRpDincpkho)
